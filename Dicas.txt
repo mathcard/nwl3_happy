@@ -1,0 +1,4 @@
+Parei no 1:30
+
+Ao criar o routes com typescript, adicionar pacote types
+yarn add @types/react-router-dom -D
